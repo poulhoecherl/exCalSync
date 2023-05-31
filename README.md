@@ -1,2 +1,2 @@
-# kvmCalSync
-KVM calendar sync tool
+# exCalSync
+Exchange calendar sync tool
